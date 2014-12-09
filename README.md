@@ -5,6 +5,6 @@ Brief survey of Objective-C Language
 
 ## Goal
 This repository has these goals:
-- show familiarity with Objective-C Programming Language
-- show familiarity with writing code in Xcode 
-- Show familiarity with using Xcode's Source Control functionality to manage a git Repository
+- demonstrate familiarity with Objective-C Programming Language
+- demonstrate familiarity with writing code in Xcode 
+- demonstrate familiarity with Xcode's Source Control functionality to manage a git Repository
